@@ -82,7 +82,7 @@ public class CircleAnimation{
                     preciseChecks++;
                     boolean collision = Shapes.collision(c1, c2);
                     if(collision){
-                        resolveCollisionCenterBased(c1, c2);
+                        resolveCollisionWithoutTrig(c1, c2);
                         collisions++;
                         //MANY_COLLISIONS = false;
                     }
