@@ -1,5 +1,7 @@
 # Real time fully elastic collisions
-![](media/animation1.mp4)
+
+https://user-images.githubusercontent.com/59506639/199728102-914f8307-47e5-4744-bcc8-eb9a9e6fdf82.mp4
+
 ### Program arguments:
 - -r circle radius (int)
 - -c number of circles (int)
